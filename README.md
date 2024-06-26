@@ -1,1 +1,1 @@
-# Portfolio_Subhadeep
+<h2>Here you can discover my projects . Explore my skills in data structures, problem-solving, and various technical domains. Whether you're here to collaborate or get inspired, I'm excited to share my work with you.</h2>
